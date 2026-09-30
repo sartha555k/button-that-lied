@@ -1,5 +1,7 @@
 # The Button That Lied
 
+**Live demo:** https://button-that-lied.vercel.app/
+
 A tiny checkout with **three UX traps**, a scripted session that walks into all of them,
 and the evidence that explains the failure - then one switch fixes the flow and the same
 script reruns clean. Built as a demonstration of evidence-first session analysis: not
