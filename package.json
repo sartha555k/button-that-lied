@@ -1,0 +1,25 @@
+{
+  "name": "the-button-that-lied",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A tiny checkout with three UX traps, a scripted session that fails, and the evidence to see why - then the fixed flow reruns. Synthetic demo data.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "^0.2.17",
+    "next": "15.5.26",
+    "pg": "^8.13.1",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "@types/pg": "^8.11.10",
+    "@types/react": "^19.0.4",
+    "@types/react-dom": "^19.0.2",
+    "typescript": "^5.7.3"
+  }
+}
