@@ -11,7 +11,7 @@ export default function CursorLayer({ x, y, visible, rippleKey }: { x: number; y
         height="26"
         viewBox="0 0 24 24"
       >
-        <path d="M4 2 L20 12 L12.5 13.5 L9 22 Z" fill="#f5f3ff" stroke="#1e1b4b" strokeWidth="1.2" />
+        <path d="M4 2 L20 12 L12.5 13.5 L9 22 Z" fill="#1e1b4b" stroke="#ffffff" strokeWidth="1.2" />
       </svg>
     </>
   );
